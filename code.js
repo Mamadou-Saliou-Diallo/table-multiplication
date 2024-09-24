@@ -12,7 +12,7 @@ let n;
 
         if (n !== null) {
             // Création du tableau HTML
-            let table = "<table><tr><th>Multiplicande</th><th>Résultat</th></tr>";
+            let table = "<table><tr><th>Multiplication</th><th>Résultat</th></tr>";
 
             // Boucle pour les multiplicateurs de 1 à 10
             for (let i = 1; i <= 10; i++) {
